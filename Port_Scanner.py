@@ -8,7 +8,7 @@ GREEN = "\033[92m"
 RESET = "\033[0m"
 
 
-# ASCII ART (JOKER LEFT + JACKSEC RIGHT)
+# ASCII ART 
 ASCII_ART = f"""{GREEN}
                  _\\@)_       ___               ▄▄▄██▀▀▀▄▄▄       ▄████▄   ██ ▄█▀     ██████ ▓█████  ▄████▄  
                   /`\\      .' -,'-.__,@         ▒██  ▒████▄    ▒██▀ ▀█   ██▄█▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
@@ -91,3 +91,4 @@ def main():
 # RUN MAIN LOGIC
 if __name__ == "__main__":
     main()
+
