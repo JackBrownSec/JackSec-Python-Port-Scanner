@@ -1,6 +1,8 @@
 ## Terminal Image
 
-![JackSec Port Scanner Output](terminal_output.png)
+<p align="center">
+  <img src="terminal_output.png" alt="JackSec Port Scanner Output" width="800">
+</p>
 
 
 
